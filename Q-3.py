@@ -17,3 +17,13 @@ st.pop()
 print(st)
 st.add("hello")
 print(st)
+
+#OUTPUT:
+# Enter name 1: ved 
+# Enter name 2: sumit
+# Enter name 3: pavan
+# Enter name 4: prince
+# Enter name 5: kartik
+# {'ved', 'prince', 'sumit', 'pavan', 'kartik'}
+# {'pavan', 'kartik'}
+# {'hello', 'pavan', 'kartik'}
