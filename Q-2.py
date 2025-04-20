@@ -16,4 +16,7 @@ for i in st:
 print(f"Number of elements less than 30 are {count}")    
 print("new set is :", st1)    
 
-    
+#OUTPUT:
+# {33, 38, 40, 42, 43, 16, 18}
+# Number of elements less than 30 are 2
+# new set is : {16, 33, 18}       
