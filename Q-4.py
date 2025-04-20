@@ -11,3 +11,6 @@ for i in st:
 print(st_a)
 print(st_b)
 
+#OUTPUT:
+# {'arun', 'ashish', 'ashutosh'}
+# {'bhautik', 'becky'} 
